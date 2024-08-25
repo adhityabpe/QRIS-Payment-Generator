@@ -2,5 +2,5 @@
   "apiKey": "testin1234",
   "mID": 250750,
   "port": 3030,
-  "hostname": "https://qris-payment-generator-production.up.railway.app/"
+  "hostname": "qris-payment-generator-production.up.railway.app"
 }
